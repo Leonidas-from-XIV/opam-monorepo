@@ -41,6 +41,6 @@ flags: [ plugin ]
 pin-depends: [
   [
     "opam-0install.0.4.2"
-    "git+https://github.com/NathanReb/opam-0install-solver#0e3d946084d6da0aa33f0a0c61e0cc780025054e"
+    "git+https://github.com/ocaml-opam/opam-0install-solver#4eede964fabba756e4c3c825f15da3bb499a9356"
   ]
 ]
